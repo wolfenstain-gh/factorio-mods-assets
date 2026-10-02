@@ -4,7 +4,7 @@
 
 **[Download it on the Factorio Mod Portal](https://mods.factorio.com/mod/heavy-trucks)** · Factorio 2.0 · [Español](README.es.md)
 
-Four half-track heavy trucks built to look like they came straight from Wube: same camera,
+Six half-track heavy trucks built to look like they came straight from Wube: same camera,
 same materials, rendered in 64 directions with animated tracks, lights, shadows and their
 own wrecks. They all share the same tractor unit and each one carries a different job on its bed.
 
@@ -16,6 +16,8 @@ Works with Factorio 2.0. **Space Age is optional.**
 
 The workhorse and the base of the other trucks.
 
+![Heavy Truck](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/heavy-trucks/media/camion-pesado-girando.gif)
+
 - **160-slot** cargo bed. Its deck **fills up with cargo** as the trunk does (it can be hidden in the per-player settings).
 - **Recipe:** 32 engine units, 10 electronic circuits, 50 iron plates, 100 steel plates.
 - **Research:** Heavy truck (red + green science, after Automobilism).
@@ -23,6 +25,8 @@ The workhorse and the base of the other trucks.
 ## Tanker Truck
 
 A fluid wagon on the road.
+
+![Tanker Truck](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/heavy-trucks/media/camion-cisterna-girando.gif)
 
 - **Two isolated tanks of 25,000** each (front and rear), so it can carry two different fluids.
 - Park it next to an **ordinary pump**: the vanilla connector arm reaches out to the tank
@@ -36,6 +40,8 @@ A fluid wagon on the road.
 ## Artillery Truck
 
 Mobile long-range artillery.
+
+![Artillery Truck deploying](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/heavy-trucks/media/camion-artillero-despliegue.gif)
 
 - **Deploy** it when stopped (button in its window or **Shift + G**): four stabilizers plant on
   the ground and the gun rises. It cannot be driven while anchored. Fold it the same way.
@@ -55,6 +61,8 @@ Mobile long-range artillery.
 ## Logistic Truck
 
 A mobile logistics hub.
+
+![Logistic Truck with its roboport hatch](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/heavy-trucks/media/camion-logistico-trampilla.gif)
 
 - Carries a **compact roboport** (1 robot slot + 1 repair pack slot, logistics radius 25,
   construction radius 50) and the **five logistic chests** (passive and active provider,
@@ -77,6 +85,8 @@ A mobile logistics hub.
 
 A radar on wheels.
 
+![Radar Truck with its mast up](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/heavy-trucks/media/camion-radar-desplegado.png)
+
 - **Driving**, it has the **range of the game's radar**.
 - **Stopped**, raise its mast (button in its window or **Shift + G**): the antenna goes up and the
   stairs come down, for **twice the range**. It can't be driven while the mast is up.
@@ -90,6 +100,8 @@ A radar on wheels.
 ## V3 Launcher (Space Age)
 
 A late-game mobile launcher for one enormous missile, inspired by the V3 of Red Alert 2.
+
+![V3 Launcher deployed](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/heavy-trucks/media/camion-v3-desplegado.png)
 
 - Used **exactly like the Artillery Truck**: deploy it when stopped (**Shift + G**), the four
   stabilizers plant and the launcher raises the missile; fire it by hand (shoot key or the

@@ -18,6 +18,8 @@ This is the **first release**: it brings the **Chronosphere**. More superweapons
 
 A huge machine that bends time and space to move your army anywhere, **even to another planet**.
 
+![Chronosphere teleporting a tank](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/superweapons/media/chronosphere-teleport.gif)
+
 - It charges **100 GJ** (up to 50 MW). Once full, its dome opens and it waits, ready to fire.
 - Take the **Chronosphere control** from the shortcut bar (or press **H**). The zone that will
   travel is shown under your cursor.
@@ -29,6 +31,8 @@ A huge machine that bends time and space to move your army anywhere, **even to a
 - At the destination each thing appears at the **nearest free spot**. Characters wearing **mech
   armour** land right where they should, on top of buildings if needed, and keep flying.
 - Buildings, trains, robots, items on the ground, nests and worms stay where they are.
+
+![Chronosphere opening, firing and closing](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/superweapons/media/chronosphere-open-close.gif)
 
 ### Anything alive dies
 
