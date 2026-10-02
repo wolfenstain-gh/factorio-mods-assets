@@ -25,6 +25,7 @@ A huge machine that bends time and space to move your army anywhere, **even to a
   travel is shown under your cursor.
 - **Click the source, then the destination.** The destination can be on another planet: pick it
   from remote view. Only **explored** zones can be picked (fogged ones are fine, black ones are not).
+  To cancel, click inside the source zone or put the control away (**Q**).
 - The source zone is wrapped in a dome of energy, and everything inside **travels as a group**:
   characters, cars, tanks and spidertrons, **with everything they carry**, including inventory,
   equipment, quality, health and driver.

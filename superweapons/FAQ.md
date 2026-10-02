@@ -16,7 +16,7 @@ Living beings die on the trip. Your characters survive on foot only if your forc
 No. Vehicles and characters travel as they are: inventory, ammo, fuel, equipment, quality, health and driver are kept.
 
 **I can't pick the destination.**
-It must be an **explored** zone (fogged is fine; black, unexplored map is not), and it cannot overlap the source.
+It must be an **explored** zone (fogged is fine; black, unexplored map is not), and it cannot overlap the source: if it is too close, you get a "Too close" message and can pick another spot.
 
 **Does it need Space Age?**
 Yes: it is researched on Aquilo and its parts are made in the electromagnetic plant.
