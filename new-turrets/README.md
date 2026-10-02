@@ -16,11 +16,14 @@ including **anti-air turrets**.
 
 Inspired by the Prism Tower of Command & Conquer: Red Alert 2.
 
+![Prism towers linking up in a chain](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/new-turrets/media/prism-towers-chain.gif)
+
 - It **charges up and fires a focused beam of white light**.
-- **Weak on its own, deadly in numbers:** nearby idle prism towers **link up in a chain** and feed
-  their energy into one shot, **multiplying its damage up to ×5**. Place them close together.
-- The crown of prisms spins while idle, stops to charge and fire, and takes your **player colour**.
-- **Range 26**, **800 health**, powered by electricity. Without power it stops.
+- **Strong on its own, devastating in numbers:** nearby idle prism towers **link up in a chain** and
+  feed their energy into one shot: **each linked tower adds +150 %** of its damage, with **up to 8
+  supporting towers** (a full chain of 9 hits 13 times as hard). Place them close together.
+- The crown of prisms spins while idle, stops to charge and fire, and its prisms light up as it charges. The base and the beam take your **player colour**.
+- **Range 26**, **1200 health**, powered by electricity. Without power it stops.
 - **Prism damage:** enemies resist it like laser, but only its own research improves it:
   **Prism damage**, 6 levels plus an infinite one.
 
@@ -69,6 +72,13 @@ always be free. If you enjoy them and feel like it, you can buy me a coffee:
 [buymeacoffee.com/wolfenstain](https://buymeacoffee.com/wolfenstain)
 
 No pressure at all: playing them and leaving feedback already means a lot. Thank you!
+
+---
+
+## Gallery
+
+![prism towers chain](media/prism-towers-chain.gif)
+
 
 ---
 

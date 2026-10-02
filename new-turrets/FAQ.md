@@ -3,8 +3,8 @@
 **What does it add?**
 For now, the **Prism Tower**, inspired by Command & Conquer: Red Alert 2. More defences are on the way, including **anti-air turrets**.
 
-**Why is my prism tower so weak?**
-On its own it is. Place several **close together** (within their range, 26 tiles): idle towers link up in a chain and feed their energy into one shot, multiplying its damage **up to ×5**.
+**How do prism towers work together?**
+Place several **close together** (within their range, 26 tiles): idle towers link up in a chain and feed their energy into one shot. **Each linked tower adds +150 %** of the shot's damage, with **up to 8 supporting towers**: one tower hits for 100, a chain of 3 for 400, a full chain of 9 for 1300 (before research). The supporting towers then recharge before they can fire or link again.
 
 **Do laser upgrades make it stronger?**
 No. It deals its own **prism** damage: enemies resist it like laser, but only the **Prism damage** research improves it (6 levels plus an infinite one).
