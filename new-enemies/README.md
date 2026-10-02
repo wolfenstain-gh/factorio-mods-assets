@@ -1,5 +1,7 @@
 # New Enemies (Vanilla+)
 
+<img src="media/thumbnail.png" width="256" alt="New Enemies (Vanilla+)">
+
 **[Download it on the Factorio Mod Portal](https://mods.factorio.com/mod/new-enemies)** · Factorio 2.0
 
 New enemies for Nauvis. Rendered in the game's own style, with vanilla-like animations and evolution colours.
@@ -11,6 +13,8 @@ This is the **first release** of the pack: it brings the **Flyers**. More famili
 ## Flyers
 
 Biters that learned to fly. Your walls won't stop them.
+
+![Flyers leaving their nest, crossing water and a wall](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/new-enemies/media/flyers-attack.gif)
 
 - **Four evolution tiers**, like the vanilla biters: small, medium, big and behemoth flyers.
 - **They fly straight over walls, water and cliffs**: the defences that keep biters out don't
