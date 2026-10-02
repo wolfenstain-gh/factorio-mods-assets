@@ -13,7 +13,7 @@ No. It deals its own **prism** damage: enemies resist it like laser, but only th
 Check its power: without electricity it stops.
 
 **Does it take my player colour?**
-Yes, the base and the crown of prisms both do.
+Yes: the base and the beam do. The crown of prisms keeps its own colour.
 
 **Do I need Space Age?**
 No. With Space Age, the Prism Tower becomes a late-game defence (tungsten, holmium, lithium, cryogenic science) and the vanilla rocket turret can shoot **flyers** from New Enemies in the air.
