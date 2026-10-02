@@ -83,4 +83,11 @@ No pressure at all: playing them and leaving feedback already means a lot. Thank
 
 ---
 
+## Gallery
+
+![flyers attack](media/flyers-attack.gif)
+
+
+---
+
 Questions? See the [FAQ](FAQ.md).
