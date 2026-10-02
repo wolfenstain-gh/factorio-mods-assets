@@ -7,7 +7,7 @@ No. It's a fast, direct way to send urgent cargo (up to 1 ton per rocket) betwee
 It's **endgame**: it's unlocked after the **cryogenic science pack**, and the rocket parts are made on Vulcanus, Fulgora and Aquilo.
 
 **How do I send something?**
-Build a **landing pad** on the planet that needs the items and set its **requests** in the panel under its window. Build a **simple rocket silo** on the planet that has them, inside a logistic network. The silo gathers what the pad is missing, launches, and the rocket lands on the pad a few minutes later.
+Build a **landing pad** on the planet that needs the items and set its **requests** in the panel on the right of its window. Build a **simple rocket silo** on the planet that has them, inside a logistic network. The silo gathers what the pad is missing, launches, and the rocket lands on the pad a few minutes later.
 
 **Does it respect quality?**
 Yes. Request rare plates and rare plates are sent; whatever goes in the rocket arrives with the same quality.

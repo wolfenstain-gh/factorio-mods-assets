@@ -31,6 +31,7 @@ Requires **Space Age**. Graphics rendered to look like the game's own, with vani
 - Silos have **names** ("Rocket silo 1", "Rocket silo 2"...), editable with the pencil in their panel.
 
 ![Launch](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/simple-rockets/media/despegue.gif)
+
 - **Recipe:** 500 refined concrete, 100 tungsten plates, 100 processing units,
   50 superconductors, 50 low density structures, 5 quantum processors.
 
@@ -50,6 +51,7 @@ Requires **Space Age**. Graphics rendered to look like the game's own, with vani
 - Several rockets arriving at once land one after another.
 
 ![Landing](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/simple-rockets/media/aterrizaje.gif)
+
 - **Recipe:** 500 refined concrete, 100 tungsten plates, 50 processing units,
   20 superconductors, 5 quantum processors.
 
