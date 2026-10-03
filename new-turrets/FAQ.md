@@ -1,7 +1,7 @@
 # FAQ
 
 **What does it add?**
-The **Prism Tower** and, with Space Age, the **Flak Cannon**, both inspired by Command & Conquer: Red Alert 2. More defences are on the way.
+The **Prism Tower** and the **Flak Cannon**, both inspired by Command & Conquer: Red Alert 2. More defences are on the way.
 
 **How do prism towers work together?**
 Place several **close together** (within their range, 26 tiles): idle towers link up in a chain and feed their energy into one shot. **Each linked tower adds +150 %** of the shot's damage, with **up to 8 supporting towers**: one tower hits for 100, a chain of 3 for 400, a full chain of 9 for 1300 (before research). The supporting towers then recharge before they can fire or link again.
@@ -19,7 +19,7 @@ Check its power: without electricity it stops.
 Yes: the base and the beam do. The crown of prisms keeps its own colour.
 
 **Do I need Space Age?**
-No. With Space Age, the Prism Tower becomes a late-game defence (tungsten, holmium, lithium, cryogenic science) and the **Flak Cannon** appears (it needs tungsten from Vulcanus).
+No. With Space Age, the Prism Tower becomes a late-game defence (tungsten, holmium, lithium, cryogenic science) and the Flak Cannon is researched on Vulcanus with tungsten parts. Without it, both use base-game recipes.
 
 **Do I need New Enemies?**
 No, it works on its own against the vanilla biters. They're made to be played together, though.

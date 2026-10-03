@@ -56,8 +56,8 @@ air (anti-air turrets) and on the ground (every turret).
 
 **New Turrets** is the companion mod, and it's **recommended** to play New Enemies with it:
 its defences are designed to answer the new threats. The first is the **Prism Tower**, inspired
-by Command & Conquer: Red Alert 2, and **anti-air turrets** are on the way to take the flyers
-down before they land.
+by Command & Conquer: Red Alert 2, and the **Flak Cannon**, an anti-air turret that takes the
+flyers down before they land.
 
 ## Part of something bigger
 

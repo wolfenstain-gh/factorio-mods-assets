@@ -7,7 +7,7 @@
 New defensive towers in the vanilla style, rendered to look like they came from Wube, with
 vanilla-like animations, sounds and player-colour masks.
 
-It brings the **Prism Tower** and, with Space Age, the **Flak Cannon**, an anti-air turret.
+It brings the **Prism Tower** and the **Flak Cannon**, an anti-air turret.
 More defences are on the way.
 
 ---
@@ -40,7 +40,7 @@ supercapacitors, and the research comes after the cryogenic science pack.
 
 ---
 
-## Flak Cannon (Space Age)
+## Flak Cannon
 
 Inspired by the Flak Cannon of Command & Conquer: Red Alert 2.
 
@@ -51,9 +51,12 @@ Inspired by the Flak Cannon of Command & Conquer: Red Alert 2.
 - **2 shots a second**, **range 36**. Every shot bursts in the air around its target and hits
   **everything flying within 2 tiles** (30 explosion damage).
 - **500 health**, 3×3, powered by electricity: no ammo.
-- Made from two parts: the **flak cannon barrel** (10 steel, 20 iron plates, 5 tungsten plates)
-  and the **flak cannon mount** (4 iron sticks, 4 tungsten carbide, 1 iron gear wheel).
-- **Research:** *Flak cannon*, with the metallurgic science pack from **Vulcanus**.
+- Made from two parts: the **flak cannon barrel** (10 steel, 20 iron plates, 5 engine units) and
+  the **flak cannon mount** (4 iron sticks, 4 steel plates, 1 iron gear wheel).
+- **Research:** *Flak cannon*, after *Military 3*.
+
+**With Space Age** its parts take tungsten from **Vulcanus** (5 tungsten plates in the barrel,
+4 tungsten carbide in the mount) and it's researched with the metallurgic science pack.
 
 ---
 
