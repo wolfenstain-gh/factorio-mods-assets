@@ -7,7 +7,8 @@
 New defensive towers in the vanilla style, rendered to look like they came from Wube, with
 vanilla-like animations, sounds and player-colour masks.
 
-It brings the **Prism Tower** and the **Flak Cannon**, an anti-air turret.
+It brings the **Prism Tower** and two anti-air turrets: the **Flak Cannon** and, with Space Age,
+the **Patriot Missile Launcher**.
 More defences are on the way.
 
 ---
@@ -60,6 +61,28 @@ Inspired by the Flak Cannon of Command & Conquer: Red Alert 2.
 
 ---
 
+## Patriot Missile Launcher (Space Age)
+
+Inspired by the Allied Patriot of Command & Conquer: Red Alert 2. The long-range partner of the
+Flak Cannon.
+
+![Patriot launchers shooting down flyers](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/new-turrets/media/patriot.gif)
+
+- **Anti-air only:** like the Flak Cannon, it shoots **flying enemies** and never anything on
+  the ground.
+- Its tube doors **open when it locks on** a target. Each attack fires **one guided missile**,
+  alternating the left and right launchers, with a thin blue-white trail.
+- Each missile hits for **250 explosion damage**, plus **50 to everything flying within 2
+  tiles**: one or two missiles bring a big flyer down.
+- **Range 48**, one missile every **1.5 s**, **800 health**, 2×2, powered by electricity: no ammo.
+- Made in the **cryogenic plant** from three parts, also made there: the **Patriot launcher**,
+  the **turret platform** and the **infrared target detector** (tungsten, holmium, lithium,
+  quantum processors).
+- **Research:** *Patriot missile launcher*, on **Aquilo** (750 of each science pack up to
+  cryogenic), after the Flak Cannon.
+
+---
+
 ## Coming next
 
 - More towers, each one designed to answer a new threat.
@@ -92,6 +115,8 @@ No pressure at all: playing them and leaving feedback already means a lot. Thank
 ## Gallery
 
 ![flak cannon](media/flak-cannon.gif)
+
+![patriot](media/patriot.gif)
 
 ![prism towers chain](media/prism-towers-chain.gif)
 
