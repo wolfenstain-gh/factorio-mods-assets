@@ -70,11 +70,11 @@ Flak Cannon.
 
 - **Anti-air only:** like the Flak Cannon, it shoots **flying enemies** and never anything on
   the ground.
-- Its tube doors **open when it locks on** a target. Each attack fires **one guided missile**,
-  alternating the left and right launchers, with a thin blue-white trail.
-- Each missile hits for **250 explosion damage**, plus **50 to everything flying within 2
-  tiles**: one or two missiles bring a big flyer down.
-- **Range 48**, one missile every **1.5 s**, **800 health**, 2×2, powered by electricity: no ammo.
+- Its tube doors **open when it locks on** a target. Each attack is a **salvo of 2 guided
+  missiles**, one from each launcher, with a thin blue-white trail.
+- Each missile hits for **300 explosion damage**, plus **100 to everything flying within 3
+  tiles**: a single salvo brings a big flyer down.
+- **Range 48**, one salvo **every second**, **1000 health**, 2×2, powered by electricity: no ammo.
 - Made in the **cryogenic plant** from three parts, also made there: the **Patriot launcher**,
   the **turret platform** and the **infrared target detector** (tungsten, holmium, lithium,
   quantum processors).
