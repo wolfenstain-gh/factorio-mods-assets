@@ -13,7 +13,7 @@ No, that's the point: flyers fly straight over walls, water and cliffs.
 Regular turrets can't hit flyers **in the air**; only anti-air turrets can. Once a flyer **lands** to wait or to fight, every turret can shoot it like any biter.
 
 **Which turrets can shoot them in the air?**
-With **New Turrets (Vanilla+)** and Space Age, the vanilla **rocket turret** can. New Turrets will also bring dedicated **anti-air turrets**. Turrets from other mods can too, if their author enables it (see "For modders" in the description).
+**New Turrets (Vanilla+)** will bring dedicated **anti-air turrets**, starting with the **Flak Cannon**. Turrets from other mods can too, if their author enables it (see "For modders" in the description).
 
 **Do I need New Turrets?**
 It isn't required, but it's **recommended**: its defences are designed for these enemies.

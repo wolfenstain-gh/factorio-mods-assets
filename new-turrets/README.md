@@ -7,8 +7,8 @@
 New defensive towers in the vanilla style, rendered to look like they came from Wube, with
 vanilla-like animations, sounds and player-colour masks.
 
-This is the **first release**: it brings the **Prism Tower**. More defences are on the way,
-including **anti-air turrets**.
+It brings the **Prism Tower** and, with Space Age, the **Flak Cannon**, an anti-air turret.
+More defences are on the way.
 
 ---
 
@@ -40,14 +40,25 @@ supercapacitors, and the research comes after the cryogenic science pack.
 
 ---
 
-## Rocket turret vs. flyers (Space Age)
+## Flak Cannon (Space Age)
 
-With **Space Age**, New Turrets lets the vanilla **rocket turret** shoot **flyers** from
-New Enemies while they're in the air.
+Inspired by the Flak Cannon of Command & Conquer: Red Alert 2.
+
+![Flak cannons shooting down flyers](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/new-turrets/media/flak-cannon.gif)
+
+- **Anti-air only:** it shoots **flying enemies** (the flyers of New Enemies while they fly) and
+  **never anything on the ground**, not even a flyer that has landed.
+- **2 shots a second**, **range 36**. Every shot bursts in the air around its target and hits
+  **everything flying within 2 tiles** (30 explosion damage).
+- **500 health**, 3×3, powered by electricity: no ammo.
+- Made from two parts: the **flak cannon barrel** (10 steel, 20 iron plates, 5 tungsten plates)
+  and the **flak cannon mount** (4 iron sticks, 4 tungsten carbide, 1 iron gear wheel).
+- **Research:** *Flak cannon*, with the metallurgic science pack from **Vulcanus**.
+
+---
 
 ## Coming next
 
-- **Anti-air turrets**, to take flyers down before they land.
 - More towers, each one designed to answer a new threat.
 
 ## Made for New Enemies
@@ -76,6 +87,8 @@ No pressure at all: playing them and leaving feedback already means a lot. Thank
 ---
 
 ## Gallery
+
+![flak cannon](media/flak-cannon.gif)
 
 ![prism towers chain](media/prism-towers-chain.gif)
 
