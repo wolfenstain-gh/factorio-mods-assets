@@ -10,7 +10,7 @@ player-colour masks and the effects and sounds of the original game.
 They are **unique**: there can only be **one of each per force**. You cannot build a second one,
 and the recipe is locked while you own one.
 
-This is the **first release**: it brings the **Chronosphere**. More superweapons are on the way.
+It brings two superweapons: the **Chronosphere** and the **Nuclear Missile Silo**. More are on the way.
 
 ---
 
@@ -21,7 +21,7 @@ A huge machine that bends time and space to move your army anywhere, **even to a
 ![Chronosphere teleporting a tank](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/superweapons/media/chronosphere-teleport.gif)
 
 - It charges **100 GJ** (up to 50 MW). Once full, its dome opens and it waits, ready to fire.
-- Take the **Chronosphere control** from the shortcut bar (or press **H**). The zone that will
+- Take the **Chronosphere control** from the shortcut bar (or press **Ctrl + H**). The zone that will
   travel is shown under your cursor.
 - **Click the source, then the destination.** The destination can be on another planet: pick it
   from remote view. Only **explored** zones can be picked (fogged ones are fine, black ones are not).
@@ -52,6 +52,38 @@ zone die**.
   generators, cupola, dome, fission generators** and **tungsten sheets**. The five together make
   the Chronosphere.
 - **Space Age is required.**
+
+---
+
+## Nuclear Missile Silo
+
+The most destructive weapon in the mod. It builds a nuclear missile part by part and launches it at
+**any explored spot of its planet**.
+
+![Nuclear missile launch and explosion](https://raw.githubusercontent.com/wolfenstain-gh/factorio-mods-assets/main/superweapons/media/nuclear-silo-launch.gif)
+
+- Like the vanilla rocket silo, it builds the missile by itself: **150 parts**, each one made of
+  uranium-235, a tungsten plate, a processing unit and nuclear fuel. It takes a long time, and it
+  accepts **productivity modules**.
+- With the missile ready, the silo **opens**.
+- Take the **Nuclear missile control** from the shortcut bar and **click the target**, also from the
+  map or remote view. The damage radius is shown under your cursor. Only **explored** spots of the
+  silo's planet can be picked.
+- The missile rises out of sight, a siren warns everyone, and a few seconds later it falls on the
+  target.
+
+### Nothing survives
+
+The explosion is the atomic bomb's, **three times bigger**: **75 tiles of radius**, and the damage
+travels outwards with the shockwave. It damages **absolutely everything**, **your own buildings too**.
+Aim carefully.
+
+### Recipe and research
+
+- **Research:** *Nuclear missile silo*, after *Atomic bomb*, *Rocket silo* and *Metallurgic science
+  pack*. It needs science packs up to Vulcanus.
+- Five parts, made in the **foundry** (no productivity, no quality): **blast doors, launch platform,
+  service tower, guidance system** and **radiation shielding**. The five together make the silo.
 
 ---
 
@@ -87,6 +119,8 @@ No pressure at all: playing them and leaving feedback already means a lot. Thank
 ![chronosphere open close](media/chronosphere-open-close.gif)
 
 ![chronosphere teleport](media/chronosphere-teleport.gif)
+
+![nuclear silo launch](media/nuclear-silo-launch.gif)
 
 
 ---
